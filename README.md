@@ -34,3 +34,5 @@
 ![Детализация проблем](https://github.com/ViktoriyaKr/Images/blob/main/Detailing.png)
 
 ![Детализация проблем](https://github.com/ViktoriyaKr/Images/blob/main/Detailing2.png)
+
+![Детализация проблем](https://github.com/ViktoriyaKr/Images/blob/main/Detailing3.png)
